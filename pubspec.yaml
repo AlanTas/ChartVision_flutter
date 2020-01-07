@@ -30,7 +30,7 @@ dev_dependencies:
     sdk: flutter
 
 flutter_icons:
-  image_path: "res/icon/icon.png"
+  image_path: "res/icon/icon_highres.png"
   android: true
   ios: true
 
