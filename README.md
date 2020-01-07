@@ -1,7 +1,10 @@
 # ChartVision
 
 An accessibility-focused app for the vision-impaired.
-![Icon](https://github.com/AlanTas/ChartVision_flutter/raw/master/res/icon/icon.png)
+
+<p align="center">
+  <img src="res/icon/icon.png" width="300" title="hover text">
+</p>
 
 ## Why flutter?
 
