@@ -1,4 +1,4 @@
-# chartvision
+# ChartVision
 
 An accessibility-focused app for the vision-impaired.
 
