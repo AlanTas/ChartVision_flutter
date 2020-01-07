@@ -1,10 +1,11 @@
-# ChartVision
-
-An accessibility-focused app for the vision-impaired.
-
 <p align="center">
   <img src="res/icon/icon.png" width="300" title="hover text">
 </p>
+
+
+# ChartVision
+
+An accessibility-focused app for the vision-impaired.
 
 ## Why flutter?
 
