@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="res/icon/icon.png" width="300" title="hover text">
+  <img src="res/icon/icon_highres.png" width="200" title="hover text">
 </p>
 
 
